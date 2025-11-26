@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Disaster Response Banner](path/to/your/image.png)
+![Disaster Response Banner](https://github.com/Chiranjit680/DisasterResponse-LM/blob/main/Screenshot%202025-07-29%20062109.png)
 
 *A specialized transformer language model for emergency communication and disaster response*
 
